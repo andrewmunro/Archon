@@ -1,0 +1,1 @@
+var archon = angular.module('archon', ['ionic']);
